@@ -19,8 +19,8 @@ Usefull link:
 
 This repository contains the following examples
 
-- `deposit`, a simple SC where you can deposit and withdraw UST
-- `send`, a simple SC that send money to another address (TODO)
-- `staking`, a simple SC that stake Luna (TODO)
-- `interact`, a simple SC that interact with Anchor Protocol (TODO)
+- `deposit` a simple SC where you can deposit and withdraw UST
+- `send` a simple SC that send money to another address (TODO)
+- `staking` a simple SC that stake Luna (TODO)
+- `interact` a simple SC that interact with Anchor Protocol (TODO)
 
