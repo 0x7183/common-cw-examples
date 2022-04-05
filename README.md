@@ -1,6 +1,6 @@
 # Common-cw-Examples
 
-Learning CosmWasm is hard due to lack of questions/examples, so I decided to share some of my works.
+In my opinion learning how to develop a Smart Contract for Terra is hard due to lack of examples, so I decided to share some of my works.
 
 ## Resources
 
