@@ -8,9 +8,9 @@ Usefull link:
 
 - [Terra Smart Contract Kickstart](https://medium.com/terra-money/terra-smart-contract-kickstart-ae1c957a098c)
 
-- [Terra Academy](https://academy.terra.money/courses/cosmwasm-smart-contracts-i).
+- [Terra Academy](https://academy.terra.money/courses/cosmwasm-smart-contracts-i)
 
-- [CosmWasm docs](https://docs.cosmwasm.com/docs/1.0/).
+- [CosmWasm docs](https://docs.cosmwasm.com/docs/1.0/)
 
 - [Terra Wiki](https://terrawiki.org/en/home)
 
