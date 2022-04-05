@@ -15,7 +15,7 @@ terra1yqngjhzda6gclquuwhacedf4h2mts8ztd6xc2z
 ### Withdraw all
 
 ```
-{"withdrawal":{"id":"1"}}
+{"withdrawal":{"id":"deposit_id"}}
 ```
 
 ## Query
@@ -23,5 +23,5 @@ terra1yqngjhzda6gclquuwhacedf4h2mts8ztd6xc2z
 ### Get Deposits
 
 ```
-{"get_deposits":{"address":"terra1umw8s7n8pzcnwn6n5pnr9574gy739nuwy4rk2a"}}
+{"get_deposits":{"address":"depositor_address"}}
 ```
