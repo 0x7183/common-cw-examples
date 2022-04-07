@@ -6,7 +6,7 @@ use cw_storage_plus::{Item, Map};
 
 
 
-// This struct count deposits, so we can use id as key for our Map
+// This struct counts deposits, so we can use id as key for our Map
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, JsonSchema)]
 pub struct Config {
     pub deposit_count: i32,

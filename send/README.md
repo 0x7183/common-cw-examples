@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CosmWasm Starter Pack
 
 This is a template to build smart contracts in Rust to run inside a
@@ -104,3 +105,29 @@ Workspace contains:
 
 Follow [Gitpod Getting Started](https://www.gitpod.io/docs/getting-started) and launch your workspace.
 
+=======
+# Terra Deposit Starter Pack
+
+This is a simple template to send `UST` to another address via Smart Contract
+
+You can Interact with this Smart Contract using this **TESTNET** address:
+```
+terra1en4wnedwtq335gxx74u78net75ypew5mx7uggn
+```
+## ExecuteMsg
+
+### Send
+```
+{"send": {"to_address": "receiver"}}
+```
+
+## Query
+
+### Get Transaction
+
+You'll need to know the id, try to figure out how to get that id alone :)
+
+```
+{"get_transaction":{"address":"sender_address", "id":"id"}}
+```
+>>>>>>> ba91725770e3aaa1c8637d6b9c1093f7c09b4465
