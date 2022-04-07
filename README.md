@@ -22,6 +22,6 @@ This repository contains the following examples
 - `deposit` a simple SC where you can deposit and withdraw UST
 - `send` a simple SC that send UST to another address
 - `staking` a simple SC that stake Luna (TODO)
-- `interact` a simple SC that interact with Anchor Protocol
+- `interact` a simple SC that interact with another Smart Contract
 
 
