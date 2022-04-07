@@ -1,6 +1,6 @@
 # Terra Interact Starter Pack
 
-This is a simple template interact with the `send` Smart Contract example.
+This is a simple template to interact with another Smart Contract.
 
 You can Interact with this Smart Contract using this **TESTNET** address:
 ```
@@ -9,11 +9,9 @@ terra1xuakqsr4eyvgj2fg4v99z8juxpn27kjcfp2kgz
 ## ExecuteMsg
 
 ### Interact
-
 ```
 {"interact": {"to_address": "receiver"}}
 ```
-
 ## Query
 
 ### Get Transaction
