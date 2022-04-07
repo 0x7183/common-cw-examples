@@ -1,0 +1,1 @@
+2cb371de400c3b8c4450c52668362b71b02448127290cc2b41ea86111ec000a6  ./target/wasm32-unknown-unknown/release/interact.wasm
