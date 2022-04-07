@@ -1,4 +1,4 @@
-# Terra Deposit Starter Pack
+# Terra Send Starter Pack
 
 This is a simple template to send `UST` to another address via Smart Contract
 
