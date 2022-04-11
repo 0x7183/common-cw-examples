@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ExecuteMsg",
+  "oneOf": [
+    {
+      "description": "Withdraw is a base message to withdraw funds from the smart contract",
+      "type": "object",
+      "required": [
+        "withdraw"
+      ],
+      "properties": {
+        "withdrawal": {
+          "type": "object",
+          "required": [
+            "passphrase"
+          ],
+          "properties": {
+            "passphrase": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    {
+      "description": "Deposit is a base message to deposit funds in the smart contract",
+      "type": "object",
+      "required": [
+        "deposit"
+      ],
+      "properties": {
+        "deposit": {
+          "type": "object",
+          "required": [
+            "denom",
+            "beneficiary",
+            "beneficiary_amount"
+          ],
+          "properties": {
+            "denom": {
+              "type": "string"
+            },
+            "beneficiary": {
+              "type": "string"
+            },
+            "beneficiary_amount": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
+}

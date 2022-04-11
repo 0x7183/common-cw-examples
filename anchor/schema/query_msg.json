@@ -1,0 +1,76 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "QueryMsg",
+  "oneOf": [
+    {
+      "description": "Returns the current balance of the given address, 0 if unset. Return type: BalanceResponse.",
+      "type": "object",
+      "required": [
+        "balance"
+      ],
+      "properties": {
+        "balance": {
+          "type": "object",
+          "required": [
+            "address"
+          ],
+          "properties": {
+            "address": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    {
+      "type": "object",
+      "required": [
+        "deposit_balance"
+      ],
+      "properties": {
+        "deposit_balance": {
+          "type": "object",
+          "required": [
+            "address",
+            "passphrase"
+          ],
+          "properties": {
+            "address": {
+              "type": "string"
+            },
+            "passphrase": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    
+    {
+      "type": "object",
+      "required": [
+        "withdrawable_interest"
+      ],
+      "properties": {
+        "withdrawable_interest": {
+          "type": "object",
+          "required": [
+            "passphrase",
+            "sender"
+          ],
+          "properties": {
+            "passphrase": {
+              "type": "string"
+            },
+            "sender": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
+}

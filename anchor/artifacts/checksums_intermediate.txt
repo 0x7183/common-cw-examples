@@ -1,0 +1,2 @@
+a359e71d7c5a2aeecc4f083d5f01b98b4ea5d1616f3e901bf1aad92857542662  ./target/wasm32-unknown-unknown/release/anchor.wasm
+0b8b5fc3951c591a89990b2617313e10b7c76b06dd856b04b4819cf76a6e5baf  ./target/wasm32-unknown-unknown/release/pluton.wasm
