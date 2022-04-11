@@ -25,7 +25,7 @@ This repository contains the following examples
 - `send` a simple SC that send UST to another address
 - `staking` a simple SC that stake Luna (TODO)
 - `interact` a simple SC that interact with another Smart Contract
-- `anchor` a simple SC that deposit and withdraw into Anchor Protocol (In Progress)
+- `anchor` a simple SC that deposit and withdraw into Anchor Protocol
 - `swap` a simple SC that swap cw20 tokens (TODO)
 - `governance` a simple SC for governance on cw20 (TODO)
 
