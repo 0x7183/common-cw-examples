@@ -6,6 +6,8 @@ This template is a little bit harder then the other:
 - The code in `querier` interact with Anchor Protocol
 - The code in `handler` handle all the interaction with our Smart Contract
 
+This code is a simplified version of [Pluton Protocol](https://github.com/0x7183/pluton-protocol-core).
+
 You can Interact with this Smart Contract using this **TESTNET** address:
 
 ```
