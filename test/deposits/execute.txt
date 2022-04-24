@@ -1,0 +1,20 @@
+[
+    {
+        "msg": {"deposit":{}},
+        "coin": {"uusd": 10000000},
+        "wallet": 0
+    },
+
+   {
+        "msg": {"deposit":{}},
+        "coin": {"uusd": 10000000},
+        "wallet": 0
+    },
+
+    {
+        "msg": {"withdrawal":{"id": "1"}},
+        "coin": {},
+        "wallet": 0
+    }
+
+]

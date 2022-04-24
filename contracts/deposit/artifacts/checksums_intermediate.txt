@@ -1,0 +1,1 @@
+ada70b6aca138d7c5798f1c5172dd2cbea8b365bf1bea9e85a1a5b0b92cbc632  ./target/wasm32-unknown-unknown/release/deposit.wasm

@@ -1,0 +1,4 @@
+[
+    {"get_transaction":{"address":"terra1umw8s7n8pzcnwn6n5pnr9574gy739nuwy4rk2a", "id":"1"}}
+
+]

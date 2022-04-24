@@ -1,0 +1,2 @@
+f588792dd4acaf5e7a6f3a34f7fff9682ffd5e84670667190bc6dcb46ececbf5  anchor.wasm
+25da257f1c2ad1645afd7f72f6a468b456458163ef71d4bd0f5304d710a65cdc  pluton.wasm

@@ -1,1 +1,0 @@
-4d7a976e86dd28aef4767d4bbca528d1facae8d3e3621767f62e5f66163f3a93  ./target/wasm32-unknown-unknown/release/send.wasm

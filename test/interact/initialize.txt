@@ -1,0 +1,5 @@
+[
+    
+    {"contract_addr": "terra1nav46dr9fy653hrstxcdacvfsxdqsuf25rhqrc"},
+          
+]

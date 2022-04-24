@@ -1,0 +1,8 @@
+[
+    {
+        "msg": {"interact": {"to_address": "terra1umw8s7n8pzcnwn6n5pnr9574gy739nuwy4rk2a"}},
+        "coin": {"uusd": 10000000},
+        "wallet": 0
+    }
+
+]
