@@ -6,6 +6,19 @@ You can Interact with this Smart Contract using this **TESTNET** address:
 ```
 terra1xuakqsr4eyvgj2fg4v99z8juxpn27kjcfp2kgz
 ```
+
+Or using the integration testing:
+
+```
+git clone https://github.com/0x7183/common-cw-examples
+```
+```
+cd common-cw-examples/contracts/interact
+```
+```
+python3 ../../test/test.py interact interact.wasm all
+```
+
 ## ExecuteMsg
 
 ### Interact

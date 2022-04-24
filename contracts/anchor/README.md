@@ -14,6 +14,18 @@ You can Interact with this Smart Contract using this **TESTNET** address:
 terra1uj0vx4nv2gjwh8rqhse8z86l06v986e9qr64cl
 ```
 
+Or using the integration testing:
+
+```
+git clone https://github.com/0x7183/common-cw-examples
+```
+```
+cd common-cw-examples/contracts/anchor
+```
+```
+python3 ../../test/test.py anchor anchor.wasm all
+```
+
 ## Init Message
 
 ```
